@@ -5,11 +5,7 @@ Portal is a <b>barebones</b> template made to rapidly create responsive portal p
 
 The template also includes floating particles with the <a href="https://github.com/motyar/firefly">jQuery firefly</a> plug-in, and load animations with the <a href="https://daneden.github.io/animate.css/">animate.css</a> library. The included logo and background are from my server, <a href="http://ts-mc.net/">The Storm</a>. The icons are from <a href="https://craftilldawn.com/">CraftTillDawn</a>. The template uses <a href="http://getbootstrap.com/">Twitter Bootstrap</a> for responsive features.
 
-This template is very easy to edit, and only takes basic HTML/CSS knowledge.
-
-If you need modifications done to the template I'd be happy to help, however I would ask for $10+ to do so.
-
 <a href="http://shepherdjerred.com/preview/portal/">Live Preview</a>
 
-Screenshot of template. Note that by default it's pretty plain/bland, especially with small icons.
+Screenshot of template. Note that by itself it's pretty plain/bland, especially with small icons.
 <img src="http://i.imgur.com/hatRhgv.png">
