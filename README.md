@@ -9,3 +9,7 @@ The template also includes floating particles with the <a href="https://github.c
 
 Screenshot of template. Note that by itself it's pretty plain/bland, especially with small icons.
 <img src="http://i.imgur.com/hatRhgv.png">
+
+
+
+#Project has been somewhat abandoned.
